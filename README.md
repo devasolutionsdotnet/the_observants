@@ -3,14 +3,14 @@ Dojo based on my believes.
 
 # Dans
 blanco: bienvenido
-amarillo: control
-naranja: pelear
-rojo: absurdizarse
+amarillo: puños
+naranja: piernas
+rojo: control
 verde: abstraerse
-azul: reirse
-violeta: taichi
-cafe: tesito
-negro: culminacion
+azul: absurdizarse
+violeta: abstraer
+cafe: absurdizar
+negro: tesito
 
 # Primer mantra
 Aqui no existe discriminación por genero, pero si por peso tipo boxing.
